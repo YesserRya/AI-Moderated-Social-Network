@@ -112,5 +112,5 @@ The dataset contains synthetic hateful language and may be distressing to inspec
 
 ## Author
 
-**Yesser Rizi** — Machine Learning and R&D Engineer  
+**Yesser Rizi** — AI and Data Science Engineer  
 [LinkedIn](https://www.linkedin.com/in/yesser-rizi-b812a0248/) · [GitHub](https://github.com/YesserRya) · [Kaggle](https://www.kaggle.com/yesserrya)
