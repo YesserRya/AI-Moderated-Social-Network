@@ -1,0 +1,10 @@
+# Web application
+Django==4.0.3
+Pillow==9.1.0
+
+# Inference and model experiments
+tensorflow==2.8.0
+numpy==1.22.3
+pandas==1.4.2
+scikit-learn==1.0.2
+matplotlib==3.5.1

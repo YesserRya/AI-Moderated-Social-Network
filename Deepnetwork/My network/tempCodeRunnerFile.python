@@ -1,5 +1,0 @@
-from PIL import Image
-
-i = Image.open(r'C:\Users\happy\Desktop\My network\media\Mymedia\templates\Mymedia\index.jpg')
-i1  = i.resize((64,64))
-i.save("inde.png")
